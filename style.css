@@ -1,15 +1,19 @@
-<body> {
-font-face=
+header{
+background-color: rgb(244, 152, 173)
 }
-body {  
-    background: linear-gradient(#8B008B, #4B0082, #483D8B) fixed;
-   }
-.pl {
-color:green
+footer{
+background-color: rgb(144, 152, 222)
 }
-hr {
-    border: none; /* Убираем границу для браузера Firefox */
-    color: black; /* Цвет линии для остальных браузеров */
-    background-color: black; /* Цвет линии для браузера Firefox и Opera */
-    height: 4px; /* Толщина линии */
-   }
+h1{
+  text-align: center;
+  font-size: 65px;
+  color: Black
+
+}
+p{
+  color: Black
+}
+h2{
+  color: Black;
+  font-size:80px
+}
